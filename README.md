@@ -28,4 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeelpatel22&" alt="jeelpatel22" /></p>
 
-Support 🙏
